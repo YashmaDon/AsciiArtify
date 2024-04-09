@@ -22,4 +22,4 @@ https://asciinema.org/a/GLOCFp0zARsKIYvKP1znNlHwR
 # Conclusion
 k3d, a lightweight wrapper for running Kubernetes in Docker, ideal for local development. Whether you’re learning Kubernetes, testing applications, or simulating multi-node clusters, k3d offers a streamlined experience. We compare k3d with traditional Kubernetes environments, highlighting its ease of use and flexibility, and provide a quick start guide for integrating k3d into your development workflow, offering quick setup and minimal resource use
 ## Acknowledge
-The above text(table) was generated using OpenAI's language model, ChatGPT.
+In preparing this assignment, materials from open sources were used and chatGPT was involved
