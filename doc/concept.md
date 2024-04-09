@@ -14,7 +14,7 @@
 Another important aspect to consider is the licensing, Docker's engine is open-source, but some of the features it offers are under a commercial license. On the other hand, Podman is fully open-source and doesn't require any commercial permits.
 # Demo
 ## minikube
-![Image](./minikube.gif)
+https://asciinema.org/a/DibVVezr7YDGn9TAa0VGM9fWL
 ## kind
 ![Image](./kind.gif)
 ## k3d
