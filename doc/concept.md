@@ -16,10 +16,10 @@ Another important aspect to consider is the licensing, Docker's engine is open-s
 ## minikube
 https://asciinema.org/a/DibVVezr7YDGn9TAa0VGM9fWL
 ## kind
-![Image](./kind.gif)
+https://asciinema.org/a/Nguias9i44Bs80iQyikFdae4c
 ## k3d
-![Image](./k3d.gif)
+https://asciinema.org/a/GLOCFp0zARsKIYvKP1znNlHwR 
 # Conclusion
-In summary, for a startup PoC, the choice between minikube, kind, and k3d depends on factors such as the desired level of realism in the testing environment, resource constraints, and ease of use. Minikube is the simplest to set up and is suitable for basic testing on a single node. Kind offers a more realistic multi-node testing environment, while k3d provides a lightweight and fast alternative for resource-constrained environments. I want to recommend minikube for PoC. As for me, this tool is more mature than others because there are more flexible settings for developing powerful features a variety of add-ons, and powerful community support.
+k3d, a lightweight wrapper for running Kubernetes in Docker, ideal for local development. Whether you’re learning Kubernetes, testing applications, or simulating multi-node clusters, k3d offers a streamlined experience. We compare k3d with traditional Kubernetes environments, highlighting its ease of use and flexibility, and provide a quick start guide for integrating k3d into your development workflow, offering quick setup and minimal resource use
 ## Acknowledge
 The above text(table) was generated using OpenAI's language model, ChatGPT.
