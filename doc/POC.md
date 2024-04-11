@@ -3,7 +3,7 @@ To prepare a Proof of Concept (PoC) for deploying the GitOps system on recommend
 We will choose the "one application - one cluster" approach, that is, one separate cluster will be taken for each application. For this purpose, we will use "single host kubernetes cluster" And we will choose ArgoCD as the Delivery and Deploy system for the test environment.
 https://argo-cd.readthedocs.io/en/stable/assets/argocd_architecture.png
 ## Demo AgroCD 
-![Image] (./AgroCD_Demo.gif)
+![Image](./AgroCD_Demo.gif)
 
 ArgoCD implements a GitOps approach using the Git repository as the source of truth to determine the desired state of the application. Kubernetes manifests can be specified in several ways.
 ## Kubernetes controller
